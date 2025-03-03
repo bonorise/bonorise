@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I’m @Bonorise
+Learning NextJs and AIGC Website 
+
+🌍 My Products
+- [slogan-generator.com](https://slogan-generator.com)
