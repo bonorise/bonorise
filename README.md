@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 -->
 
 Hi, I’m @Bonorise
-Learning NextJs and AIGC Website 
+
+As a brand strategy consultant with 15 years of experience, I'm now learning Next.js to build AIGC websites.  
+Feel free to chat!
 
 🌍 My Products
 - [slogan-generator.com](https://slogan-generator.com)
+
+🤔 Just for backlinks:
+- [cal.com](https://cal.com/bonorise)
