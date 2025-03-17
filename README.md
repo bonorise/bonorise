@@ -26,3 +26,4 @@ Feel free to chat!
 🤔 Just for backlinks:
 - [cal.com](https://cal.com/bonorise)
 - [senpaistream](https://senpaistream.vercel.app)
+- [dark stones](https://darkstones.vercel.app)
